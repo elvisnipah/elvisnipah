@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @elvisnipah
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning intermediate and advanced HTML, CSS, and JavaScript, as well as React and NodeJS
+- 🌱 I’m currently learning intermediate and advanced HTML, CSS, and JavaScript, as well as React and Node.js
 - 📫 Reach me at: elvisnipah@gmail.com
 
 <!---
